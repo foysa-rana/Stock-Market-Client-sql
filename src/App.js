@@ -18,11 +18,9 @@ const router = createBrowserRouter([
       {
         index: true,
         element: (
-          <div className="container mx-auto">
-            <StockDataSate>
-              <StockDataTable showItem={15} />
-            </StockDataSate>
-          </div>
+          <StockDataSate>
+            <StockDataTable showItem={15} />
+          </StockDataSate>
         ),
       },
     ],
