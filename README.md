@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# MY Information
+Name: Foysal Rana  
+Phone: +8801627388996  
+Email: foysalrana1212@gmail.com  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# All projects live link with repo
+## React application with JSON data
+link: https://stock-market-json-570c7.web.app  
+repo: https://github.com/foysa-rana/Stock-Market-Client-json.git  
 
-## Available Scripts
+## Server application with JSON DTA
+link: https://stock-market-server-json.onrender.com  
+repo: https://github.com/foysa-rana/Stock-Market-Server-json.git  
 
-In the project directory, you can run:
+## React application with SQL server
+link: https://stock-market-sql.web.app/  
+repo: https://github.com/foysa-rana/Stock-Market-Client-sql.git  
 
-### `npm start`
+## Server application with SQL server
+link: https://stock-market-sql.onrender.com  
+repo: https://github.com/foysa-rana/Stock-Market-Server-sql.git  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Projct stack details
+All the projects above were created separately for better maintenance. All the client sites were created with React JS and tailwind CSS, and the server sites were created with Node JS. As for the database, Postgresql was used.  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Benefits
+During building these projects I learned a lot. It was a good experience for my growth. I learned how to make a dynamic chart for different data and how to manipulate data easily by using REST API with Postgresql.  
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Challenges
+When I was working with the chart I faced great difficulty. I was facing problems filtering unique trade_code to show only related data in the chart and making them dynamic with dropdowns. After all the difficulties I eventually overcame them.  
