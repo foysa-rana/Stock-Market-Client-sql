@@ -213,6 +213,7 @@ const StockDataTable = ({ showItem }) => {
       {updateClicked && (
         <StockDataCUModal
           button="Update"
+          title="Update Data"
           singleData={singleData}
           actionHandle={updateHandle}
           actionModalClose={updateModalClose}
@@ -221,6 +222,7 @@ const StockDataTable = ({ showItem }) => {
       {addClicked && (
         <StockDataCUModal
           button="Create"
+          title="Create New Data"
           singleData={singleData}
           actionHandle={addHandle}
           actionModalClose={addModalClose}

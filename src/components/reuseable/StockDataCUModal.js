@@ -6,6 +6,7 @@ import "react-datepicker/dist/react-datepicker.css";
 
 const StockDataCUModal = ({
   button,
+  title,
   singleData,
   actionHandle,
   actionModalClose,
@@ -37,7 +38,7 @@ const StockDataCUModal = ({
               <div>
                 <div className="mt-3 text-center sm:ml-4 sm:mt-0 sm:text-left">
                   <div className="flex justify-between items-center mb-8">
-                    <h1 className="text-2xl font-bold">Update Data</h1>
+                    <h1 className="text-2xl font-bold">{title}</h1>
                     <button
                       type="button"
                       onClick={() => {
